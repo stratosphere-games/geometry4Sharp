@@ -1,0 +1,17 @@
+{
+    "name": "com.stg.geometry4sharp",
+    "version": "1.0.0",
+    "displayName": "Geometry4Sharp",
+    "description": "Computational Geometry Package",
+    "unity": "2022.2",
+   "keywords": [
+      "Geometry",
+      "Math",
+      "WhyNot"
+    ],
+    "author": {
+      "name": "Ryan Schmidt",
+      "email": "@rms80@mastodon.gamedev.place",
+      "url": "https://github.com/NewWheelTech/geometry4Sharp"
+    }
+  }
