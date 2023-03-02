@@ -2,16 +2,15 @@
     "name": "com.stratosphere.geometry4sharp",
     "version": "1.0.0",
     "displayName": "Geometry4Sharp",
-    "description": "Computational Geometry Package",
+    "description": "Computational Geometry Library, a fork of geometry3sharp by Ryan Schmidt",
     "unity": "2022.2",
    "keywords": [
       "Geometry",
       "Math",
-      "WhyNot"
+      "Spatial"
     ],
     "author": {
-      "name": "Ryan Schmidt",
-      "email": "@rms80@mastodon.gamedev.place",
+      "name": "Stratosphere Games",
       "url": "https://github.com/stratosphere-games/geometry4Sharp"
     }
   }
