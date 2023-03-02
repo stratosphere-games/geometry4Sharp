@@ -36,4 +36,6 @@ geometry4Sharp.csproj.user
 bin
 obj
 .vs
-*.meta
+
+#Rider
+.idea
