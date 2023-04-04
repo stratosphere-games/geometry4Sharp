@@ -17,11 +17,11 @@ namespace g4
     /// </summary>
     public class PointHashGrid2d<T>
     {
-        Dictionary<Vector2i, List<T>> Hash;
-        ScaleGridIndexer2 Indexer;
-        T invalidValue;
+        protected Dictionary<Vector2i, List<T>> Hash;
+        protected ScaleGridIndexer2 Indexer;
+        protected T invalidValue;
 
-        SpinLock spinlock;
+        protected SpinLock spinlock;
 
         /// <summary>
         /// "invalid" value will be returned by queries if no valid result is found (eg bounded-distance query)
