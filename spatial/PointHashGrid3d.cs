@@ -22,7 +22,7 @@ namespace g4
     /// </summary>
     public class PointHashGrid3d<T>
     {
-        Dictionary<Vector3i, List<T>> Hash;
+        protected Dictionary<Vector3i, List<T>> Hash;
         protected ScaleGridIndexer3 Indexer;
         protected T invalidValue;
 
