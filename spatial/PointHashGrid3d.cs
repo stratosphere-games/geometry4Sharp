@@ -24,7 +24,7 @@ namespace g4
     {
         Dictionary<Vector3i, List<T>> Hash;
         protected ScaleGridIndexer3 Indexer;
-        T invalidValue;
+        protected T invalidValue;
 
         SpinLock spinlock;
 
