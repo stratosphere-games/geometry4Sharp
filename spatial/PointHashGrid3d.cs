@@ -23,7 +23,7 @@ namespace g4
     public class PointHashGrid3d<T>
     {
         Dictionary<Vector3i, List<T>> Hash;
-        ScaleGridIndexer3 Indexer;
+        protected ScaleGridIndexer3 Indexer;
         T invalidValue;
 
         SpinLock spinlock;
