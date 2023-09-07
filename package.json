@@ -1,6 +1,6 @@
 {
     "name": "com.stratosphere.geometry4sharp",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Geometry4Sharp",
     "description": "Computational Geometry Library, a fork of geometry3sharp by Ryan Schmidt",
     "unity": "2022.2",
